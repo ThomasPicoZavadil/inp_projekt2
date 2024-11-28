@@ -1,4 +1,4 @@
-; Autor reseni: Tomáš Zavadil xzavadt00
+; Autor reseni: Tomas Zavadil xzavadt00
 
 ; Projekt 2 - INP 2024
 ; Vigenerova sifra na architekture MIPS64
